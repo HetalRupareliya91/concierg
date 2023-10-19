@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "536540745673",
+    "firebase_url": "https://aptly-d1d25.firebaseio.com",
+    "project_id": "aptly-d1d25",
+    "storage_bucket": "aptly-d1d25.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:536540745673:android:a62111c1d3acfd67d32218",
+        "android_client_info": {
+          "package_name": "com.aptly"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "536540745673-dm155jdj8ctf38f9g4ococ80ucub047j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aptly",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "536540745673-b0lsqciies714tga7upeqpas70flbr0s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCtSOTUTmqAMK38tQadis2TbqV_AQKyQY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "536540745673-b0lsqciies714tga7upeqpas70flbr0s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
